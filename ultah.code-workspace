@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../web/ucapan/css"
+		},
+		{
+			"path": "../../web/ucapan/images"
+		},
+		{
+			"path": "../../web/ucapan/js"
+		},
+		{
+			"path": "../../web/ucapan/scss"
+		},
+		{
+			"path": "../../web/ucapan/wahyu bunga"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "wahyu bunga"
+	}
+}
